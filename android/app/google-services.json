@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "286059918562",
+    "project_id": "mambo-8a542",
+    "storage_bucket": "mambo-8a542.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286059918562:android:4bf6ab26afbaa2f0199abb",
+        "android_client_info": {
+          "package_name": "com.example.mambo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "286059918562-p0ndarvmsme2kq1hns9rolk3io28i4tn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfbR8SwDtGsdVWb1hEtoar-C4szgYLv7M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "286059918562-p0ndarvmsme2kq1hns9rolk3io28i4tn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "286059918562-a1qj6lpse3set3gjdu17sqsrjl6sn05j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mambo"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286059918562:android:8d23842191a24bd8199abb",
+        "android_client_info": {
+          "package_name": "com.mambonow.mambo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "286059918562-0ado9q1pfhm5ulbfasj2epfbkph594v1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mambonow.mambo",
+            "certificate_hash": "8a053941719ca7a0b0dd435e04ae1d5e301e4456"
+          }
+        },
+        {
+          "client_id": "286059918562-p0ndarvmsme2kq1hns9rolk3io28i4tn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfbR8SwDtGsdVWb1hEtoar-C4szgYLv7M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "286059918562-p0ndarvmsme2kq1hns9rolk3io28i4tn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "286059918562-a1qj6lpse3set3gjdu17sqsrjl6sn05j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mambo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

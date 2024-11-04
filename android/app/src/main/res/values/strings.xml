@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+<string name="app_name">Mambo</string>
+<string name="facebook_app_id">1213013656304099</string>
+<string name="fb_login_protocol_scheme">fb1213013656304099</string>
+<string name="facebook_client_token">a58c760faf743aa1844e522048c478e1</string>
+
+
+</resources>
